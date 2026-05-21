@@ -44,7 +44,7 @@
 	  <profile>
 		 <id>qa</id>
 			 <properties>
-				 <tomcat.url>http://65.2.57.185:8080/manager/text</tomcat.url>
+				 <tomcat.url>http://13.206.201.181:8081/manager/text</tomcat.url>
 				  <tomcat.username>admin</tomcat.username>
 				  <tomcat.password>admin</tomcat.password>
 			 </properties>
